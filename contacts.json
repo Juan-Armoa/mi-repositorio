@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Gonzalo",
+        "phone": "11223344",
+        "email": "gonza@gmail.com",
+        "country": "Argentina"
+    },
+    {
+        "name": "Aron",
+        "phone": "11224214",
+        "email": "aron@gmail.com",
+        "country": "Argentina"
+    }
+]
