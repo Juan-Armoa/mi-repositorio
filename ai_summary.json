@@ -2,5 +2,9 @@
     {
         "input": "how get b2-c1 on english in 6 months",
         "summary": "Here is a concise summary and the top 3 key points for achieving a B2–C1 level in English within 6 months:\n\n### **Summary**\nReaching a B2–C1 level (Upper-Intermediate to Advanced) in 6 months requires an intensive commitment of 2 to 4 hours of daily structured practice. Success depends on shifting from passive learning to active output, mastering complex vocabulary and grammar, and immersing yourself completely in the language.\n\n---\n\n### **Top 3 Key Points**\n\n1. **Daily High-Level Immersion (Input)**  \n   * Consume advanced, real-world content daily (news articles, podcasts, academic texts, and non-fiction books). \n   * Focus on understanding nuance, idioms, and professional context rather than just general meaning.\n\n2. **Active Daily Output with Feedback (Speaking & Writing)**  \n   * Practice speaking and writing every day using complex sentence structures and new vocabulary.\n   * Seek constant feedback and error correction through tutors, language exchange partners, or AI tools to fix persistent mistakes.\n\n3. **Targeted Vocabulary and Grammar Mastery**  \n   * Learn vocabulary in context (collocations, phrasal verbs, and topic-specific phrases) rather than isolated words.\n   * Master advanced grammar concepts (mixed conditionals, passive voice, inversion, and complex connectors) to articulate sophisticated thoughts smoothly."
+    },
+    {
+        "input": "python is kind for benginners?",
+        "summary": "Error: Gemini API is currently unavailable. Please try again later. (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}})"
     }
 ]
